@@ -15,4 +15,7 @@ is
       end loop;
    end New_Line;
 
+   function Get_Line return String
+     renames Ada.Text_IO.Get_Line;
+
 end Apple.Text_IO;

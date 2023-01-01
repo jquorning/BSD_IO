@@ -9,4 +9,6 @@ is
    procedure Put_Line (Item : String);
    procedure New_Line (Spacing : Positive_Count := 1);
 
+   function Get_Line return String;
+
 end Apple.Text_IO;
