@@ -1,0 +1,10 @@
+name = "apple"
+description = "Apple specific version of Ada Standard Library"
+version = "0.1.0-dev"
+
+authors = ["Jesper Quorning"]
+maintainers = ["Jesper Quorning <jesper.quorning@gmail.com>"]
+maintainers-logins = ["jquorning"]
+licenses = "MIT OR Apache-2.0"
+website = ""
+tags = ["ada", "apple", "standard", "library"]
